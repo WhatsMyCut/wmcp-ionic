@@ -1,6 +1,8 @@
 {
   "name": "wmcp-ionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "8839fda6"
 }
